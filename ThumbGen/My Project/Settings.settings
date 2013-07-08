@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ResizeMode" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Widths</Value>
+    </Setting>
+    <Setting Name="FileAppendMode" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Prefix</Value>
+    </Setting>
+    <Setting Name="CallUpgrade" Roaming="true" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MainWindowLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="MainWindowSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="FileAppendName" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">thumb_</Value>
+    </Setting>
+    <Setting Name="MainWindowState" Type="System.Windows.Forms.FormWindowState" Scope="User">
+      <Value Profile="(Default)">Normal</Value>
+    </Setting>
+    <Setting Name="ResizeExactlyHeight" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">72</Value>
+    </Setting>
+    <Setting Name="ResizeExactlyWidth" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">92</Value>
+    </Setting>
+    <Setting Name="ResizeWidths" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">92</Value>
+    </Setting>
+    <Setting Name="ResizeHeights" Roaming="true" Type="System.String" Scope="User">
+      <Value Profile="(Default)">72</Value>
+    </Setting>
+    <Setting Name="FileType" Roaming="true" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ResizeResolution" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
